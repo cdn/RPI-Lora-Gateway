@@ -67,7 +67,7 @@ If you want to use Module 1 and Module 3 you need to set JP1 (Chip Select of mod
 I'm working on two libraries port and Single Channel Gateway to work on Raspberry PI, links are here   
 
 - [LMIC][15] to be LoraWan compliant.  This LMIC is working with this shield, see [readme][18] of repo.
-- Excellent [RadioHead][16] twekaed library for RFM69, RFM9x modules (and lot of others). This version is working with this shield, see [readme][17] of library.
+- Excellent [RadioHead][16] tweaked library for RFM69, RFM9x modules (and lot of others). This version is working with this shield, see [readme][17] of library.
 - The Things Network [Single Channel Gateway packet forwarder][24]
 
 I forked all repos to tweak them, but since I'm not sure original authors would like to merge my changes just use my forks. 
